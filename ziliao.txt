@@ -4,3 +4,12 @@ http://www.martinbroadhurst.com/tag/algorithms
 
 
 http://csapp.cs.cmu.edu/public/ics2/code/netp/tiny/tiny.c
+
+http://www.makelinux.net/books/lkd2/?u=ch03lev1sec2
+
+https://people.eecs.berkeley.edu/~culler/papers/events.pdf
+
+https://people.eecs.berkeley.edu/~culler/papers/unetsle.pdf&
+http://blog.csdn.net/zb1165048017/article/details/51705020
+https://banu.com/blog/2/how-to-use-epoll-a-complete-example-in-c/
+
