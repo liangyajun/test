@@ -1,1 +1,3 @@
 http://www.paulgriffiths.net/program/c/srcs/
+
+http://www.martinbroadhurst.com/tag/algorithms
